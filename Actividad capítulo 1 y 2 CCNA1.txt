@@ -2,7 +2,7 @@ Actividades capítulo 1 y 2 CCNA1
 
 Preguntas de lectura: Capítulo 1
 
-Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
+1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
 es una red convergente?
 
 Datos: los datos son información  y que se utiliza para una variedad de propósitos en nuestra vida cotidiana.Los datos son fragmentos de información que se transmite a través de las redes de datos. Estos datos pueden ser números, palabras u otros tipos de información, Los datos individualmente no tienen significado, estos deben estar organizados y tener un contexto para que pueda ser de utilidad para las personas
@@ -14,5 +14,16 @@ Red de datos: Una red de datos es una agrupación de dispositivos que están con
 	-Un medio de interconexión que permite el transporte de los mensajes entre los dispositivos.
 	-Los propios dispositivos de la red que se encargan de intercambiar los mensajes entre sí.
 
-red convergente: En una red convergente, todos los servicios, como voz, video y datos, pueden transmitirse a través de una única plataforma. En el pasado, cada servicio requería tecnologías diferentes y reglas específicas para su transmisión. Sin embargo, gracias a los avances tecnológicos, ahora es posible consolidar todas estas redes dispersas en una sola plataforma: una red convergente. Aunque aún existen puntos de contacto y dispositivos especializados, se utiliza una infraestructura de red común
+red convergente: En una red convergente, todos los servicios, como voz, video y datos, pueden transmitirse a través de una única plataforma. En el pasado, cada servicio requería tecnologías diferentes y reglas específicas para su transmisión. Sin embargo, gracias a los avances tecnológicos, ahora es posible consolidar todas estas redes dispersas en una sola plataforma: una red convergente. Aunque aún existen puntos de contacto y dispositivos especializados, se utiliza una infraestructura de red común.
+
+2. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos.
+
+2.1. Tolerante a fallas: una red tolerante a fallas es una red que limita el impacto de las fallas de software o hardware y permite una rápida recuperación de dichas fallas. Estas redes se basan en enlaces o rutas redundantes entre las fuentes y los destinos de los mensajes. Si falla un enlace o una ruta, estos procesos garantizan que los mensajes se redirijan inmediatamente a otro enlace que sea transparente para los usuarios en ambos extremos. Tanto la infraestructura física como los procesos lógicos para enrutar mensajes en la red están diseñados para adaptarse a esta redundancia.Un ejemplo de una red tolerante a fallas es una red de telefonía celular que usa múltiples torres de telefonía para garantizar que los usuarios puedan realizar llamadas y enviar mensajes de texto, incluso si una torre de telefonía celular no funciona.
+
+2.2. Escalabilidad: la escalabilidad se refiere a la capacidad de una red para crecer y adaptarse a medida que aumenta la cantidad de usuarios y dispositivos conectados. Una red escalable debe poder manejar más tráfico sin degradar el rendimiento o la calidad del servicio. Un ejemplo de una red escalable es Internet, que ha crecido rápidamente desde sus inicios y todavía es capaz de atender a un número cada vez mayor de usuarios y dispositivos conectados.
+
+2.3. Calidad de servicio: la calidad de servicio se refiere a la capacidad de una red para garantizar que los mensajes se entreguen a tiempo y cumplan con los requisitos de rendimiento especificados. La calidad del servicio es especialmente importante para aplicaciones que requieren transferencia de datos en tiempo real, como videoconferencias o juegos en línea. Un ejemplo de una red que prioriza la calidad del servicio es una red de telefonía de Voz sobre IP (VoIP) que utiliza tecnología de priorización de tráfico para garantizar que las llamadas de voz se entreguen de manera confiable y puntual, incluso en condiciones de gran congestión de la red.
+
+2.4 Seguridad: La seguridad se refiere a la capacidad de la red para proteger los datos y la información del usuario contra accesos no autorizados o ataques malintencionados. Las redes deben diseñarse para proteger la privacidad y la integridad de los datos y garantizar que solo los usuarios autorizados puedan acceder a la información. Un ejemplo de una red segura es una red privada virtual (VPN), que utiliza cifrado para proteger los datos transmitidos a través de la red y garantizar que solo los usuarios autorizados puedan acceder a esa información.
+
 

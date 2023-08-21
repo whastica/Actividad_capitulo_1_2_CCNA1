@@ -59,5 +59,12 @@ INTERNETWORK E INTERNET.
 
 En pocas palabras, una red es un término general para cualquier conjunto de dispositivos y medios utilizados para comunicarse entre sí. Una LAN es una red de área local que se usa para conectar dispositivos dentro de un área geográfica limitada, mientras que una WAN es una red de área amplia que se usa para conectar dispositivos dentro de un área geográfica más grande. INTERNETWORK es una red de redes interconectadas, mientras que INTERNET es una red global de computadoras interconectadas que se comunican entre sí utilizando el Protocolo de Internet (IP).
 
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+La principal diferencia entre INTERNETWORK e INTERNET es que INTERNETWORK es una red que se compone de varias redes interconectadas, mientras que INTERNET es una red global de computadoras interconectadas que utilizan el protocolo de Internet (IP) para comunicarse entre sí.
+
+Un INTERNETWORK es una red que se compone de varias redes interconectadas, lo que significa que es una red que conecta varias redes locales (LAN) y redes de área amplia (WAN) para formar una red más grande. Por ejemplo, una empresa puede tener varias LAN interconectadas mediante una WAN para formar un internetwork.
+
+Por otro lado, el INTERNET es una red global de computadoras interconectadas que utilizan el protocolo de Internet (IP) para comunicarse entre sí. El INTERNET es una red pública que se utiliza para compartir información y recursos en todo el mundo. A diferencia de un INTERNETWORK, el INTERNET no es propiedad de ninguna organización y está disponible para su uso público.
 
 

@@ -98,7 +98,12 @@ El proceso de encapsulación de datos es una técnica utilizada por los protocol
 
 El proceso de encapsulación de datos es importante porque permite que los datos se transfieran a través de una red de manera eficiente y segura. Cada capa del modelo OSI o TCP/IP agrega su propia información de encabezado a los datos, lo que permite que los dispositivos de red se comuniquen de manera eficiente y entreguen los datos correctamente a su destino.
 
+8. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos
 
+Los modelos de protocolo y los modelos de referencia son dos tipos básicos de modelos de red.
+Los patrones de protocolo proporcionan patrones que se asemejan mucho a la estructura de un conjunto de protocolos determinado. Una colección en capas de protocolos relacionados en un paquete generalmente representa toda la funcionalidad necesaria para conectar redes humanas a redes de datos. Por ejemplo, el modelo TCP/IP es un modelo de protocolo porque describe las funciones que ocurren en cada capa de protocolo de la suite TCP/IP. 
+
+Por otro lado, un modelo de referencia proporciona una referencia común para mantener la coherencia entre todos los tipos de protocolos y servicios de red. El modelo de referencia no pretende ser una especificación de implementación ni proporcionar un nivel de detalle suficiente para definir con precisión los servicios de arquitectura de red. El propósito principal de un modelo de referencia es ayudarlo a comprender más claramente las funciones y los procesos involucrados. El modelo de Interconexión de Sistemas Abiertos (OSI) es el modelo de referencia más conocido para trabajar en Internet.
 
 
 

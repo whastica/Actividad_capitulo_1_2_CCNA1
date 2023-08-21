@@ -86,6 +86,12 @@ Por ejemplo, el protocolo HTTP (Hypertext Transfer Protocol) se utiliza para la 
 
 ya que los protocolos describen solamente qué funciones se requieren de una regla de comunicación en particular pero no cómo realizarlas, es posible que la implementación de un protocolo en particular sea independiente de la tecnología. Esto significa que una computadora y otros dispositivos, como teléfonos móviles o PDA, pueden acceder a una página web almacenada en cualquier tipo de servidor web que utilice cualquier tipo de sistema operativo desde cualquier lugar de Internet.
 
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+
+Una PDU es una sección de datos que se encapsula en cada capa del modelo OSI o TCP/IP y que tiene un nombre distinto en cada capa. La PDU es la unidad básica de datos que se transmite a través de una red y que se utiliza para proporcionar servicios de comunicación entre dispositivos de red. En el modelo OSI, cada capa agrega su propia información de encabezado a la PDU que recibe de la capa superior. En el modelo TCP/IP, la PDU se denomina de manera diferente en cada capa. Por ejemplo, en la capa de aplicación, la PDU se llama "datos", mientras que en la capa de transporte, la PDU se llama "segmento". En la capa de internetwork, la PDU se llama "paquete", y en la capa de acceso a la red, la PDU se llama "trama".
+
+
+
 
 
 

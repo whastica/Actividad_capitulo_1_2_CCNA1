@@ -78,6 +78,14 @@ interfaz de red.
 
 la NIC es un dispositivo de hardware que se utiliza para conectar una computadora u otro dispositivo host a una red, mientras que el puerto físico es un conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red. La interfaz de red es un puerto especializado de un dispositivo de internetworking que se utiliza para conectar diferentes redes y permitir la comunicación entre ellas.
 
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+
+Se dice que un protocolo es independiente de la tecnología porque describe solamente qué funciones se requieren de una regla de comunicación en particular, pero no cómo realizarlas. En otras palabras, un protocolo describe lo que se debe hacer, pero no cómo se debe hacer. 
+
+Por ejemplo, el protocolo HTTP (Hypertext Transfer Protocol) se utiliza para la comunicación entre servidores web y navegadores web. HTTP no especifica qué lenguaje de programación se utiliza para crear el explorador, qué software de servidor web se debe utilizar para servir las páginas web, sobre qué sistema operativo se ejecuta el software o los requisitos necesarios para mostrar el explorador. Tampoco describe cómo detecta errores el servidor, aunque sí describe qué hace el servidor si se produce un error.
+
+ya que los protocolos describen solamente qué funciones se requieren de una regla de comunicación en particular pero no cómo realizarlas, es posible que la implementación de un protocolo en particular sea independiente de la tecnología. Esto significa que una computadora y otros dispositivos, como teléfonos móviles o PDA, pueden acceder a una página web almacenada en cualquier tipo de servidor web que utilice cualquier tipo de sistema operativo desde cualquier lugar de Internet.
+
 
 
 

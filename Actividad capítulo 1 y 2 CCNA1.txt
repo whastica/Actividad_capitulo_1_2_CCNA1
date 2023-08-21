@@ -105,5 +105,22 @@ Los patrones de protocolo proporcionan patrones que se asemejan mucho a la estru
 
 Por otro lado, un modelo de referencia proporciona una referencia común para mantener la coherencia entre todos los tipos de protocolos y servicios de red. El modelo de referencia no pretende ser una especificación de implementación ni proporcionar un nivel de detalle suficiente para definir con precisión los servicios de arquitectura de red. El propósito principal de un modelo de referencia es ayudarlo a comprender más claramente las funciones y los procesos involucrados. El modelo de Interconexión de Sistemas Abiertos (OSI) es el modelo de referencia más conocido para trabajar en Internet.
 
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+Modelo TCP/IP:
+1. Capa de Acceso a la Red: Esta capa se encarga de la transmisión de datos a través del medio físico de la red. Esta capa define cómo se transmiten los datos a través de la red y cómo se accede a ella.
+2. Capa de Internet: Esta capa se encarga de la transmisión de datos a través de la red. Esta capa define cómo se enrutan los datos a través de la red y cómo se establecen las conexiones.
+3. Capa de Transporte: Esta capa se encarga de la transmisión de datos entre los dispositivos finales. Esta capa define cómo se establecen y mantienen las conexiones entre los dispositivos finales y cómo se manejan los errores.
+4. Capa de Aplicación: Esta capa se encarga de la interacción entre el usuario y la red. Esta capa define cómo se accede a los servicios de red y cómo se manejan los datos de la aplicación.
+
+Modelo OSI:
+1. Capa Física: Esta capa se encarga de la transmisión de datos a través del medio físico de la red. Esta capa define cómo se transmiten los datos a través de la red y cómo se accede a ella.
+2. Capa de Enlace de Datos: Esta capa se encarga de la transmisión de datos entre los dispositivos finales. Esta capa define cómo se establecen y mantienen las conexiones entre los dispositivos finales y cómo se manejan los errores.
+3. Capa de Red: Esta capa se encarga de la transmisión de datos a través de la red. Esta capa define cómo se enrutan los datos a través de la red y cómo se establecen las conexiones.
+4. Capa de Transporte: Esta capa se encarga de la transmisión de datos entre los dispositivos finales. Esta capa define cómo se establecen y mantienen las conexiones entre los dispositivos finales y cómo se manejan los errores.
+5. Capa de Sesión: Esta capa se encarga de la gestión de la sesión entre los dispositivos finales. Esta capa define cómo se establece, mantiene y finaliza la sesión entre los dispositivos finales.
+6. Capa de Presentación: Esta capa se encarga de la presentación de los datos a las aplicaciones. Esta capa define cómo se convierten los datos en un formato que pueda ser entendido por las aplicaciones.
+7. Capa de Aplicación: Esta capa se encarga de la interacción entre el usuario y la red. Esta capa define cómo se accede a los servicios de red y cómo se manejan los datos de la aplicación.
+
 
 

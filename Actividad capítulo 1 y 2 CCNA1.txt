@@ -67,4 +67,17 @@ Un INTERNETWORK es una red que se compone de varias redes interconectadas, lo qu
 
 Por otro lado, el INTERNET es una red global de computadoras interconectadas que utilizan el protocolo de Internet (IP) para comunicarse entre sí. El INTERNET es una red pública que se utiliza para compartir información y recursos en todo el mundo. A diferencia de un INTERNETWORK, el INTERNET no es propiedad de ninguna organización y está disponible para su uso público.
 
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
+interfaz de red.
+
+- Tarjeta de interfaz de red (NIC): un dispositivo de hardware utilizado para conectar una computadora u otro dispositivo host a una red. Una NIC proporciona una conexión física a la red y se conecta directamente a una PC u otro dispositivo host. 
+
+- Puerto físico: un enchufe o conector en un dispositivo de red a través del cual los medios se conectan a una computadora host u otro dispositivo de red. Los puertos físicos se utilizan para conectar dispositivos a la red y permitir la transferencia de datos. 
+
+- Interfaz de red: este es un puerto dedicado en un dispositivo conectado a Internet conectado a cada red. Los enrutadores se utilizan para conectar redes y los puertos de los enrutadores se denominan interfaces de red. Las interfaces de red se utilizan para conectar diferentes redes y permitir la comunicación entre ellas.
+
+la NIC es un dispositivo de hardware que se utiliza para conectar una computadora u otro dispositivo host a una red, mientras que el puerto físico es un conector o toma en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red. La interfaz de red es un puerto especializado de un dispositivo de internetworking que se utiliza para conectar diferentes redes y permitir la comunicación entre ellas.
+
+
+
 

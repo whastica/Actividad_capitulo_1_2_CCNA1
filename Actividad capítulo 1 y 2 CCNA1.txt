@@ -36,3 +36,12 @@ Por otro lado, las redes sin conexión, también conocidas como redes de datagra
 La calidad de servicio (QoS) se refiere a la capacidad de una red para entregar datos a tiempo y cumplir con ciertos requisitos de rendimiento. QoS puede incluir priorizar ciertos tipos de tráfico, limitar la congestión de la red y proporcionar un ancho de banda mínimo para ciertas aplicaciones. 
 
 La calidad del servicio es fundamental en las redes de datos porque permite que las aplicaciones críticas, como las videoconferencias y la telefonía de voz sobre IP (VoIP), funcionen de manera confiable y sin interrupciones. Si la red no puede garantizar QoS, estas aplicaciones pueden experimentar latencia, pérdida de paquetes o mala calidad de audio y video, lo que afecta negativamente la productividad y la satisfacción del usuario. Además, QoS también es importante para una transmisión de datos fiable y segura. Si, por ejemplo, se transmite información confidencial, como datos de tarjetas de crédito o información médica, es importante que la red garantice que estos datos estén seguros y se transmitan sin interrupciones.
+
+
+Preguntas de lectura: Capítulo 2
+
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas:
+
+La estructura de la red incluye los dispositivos, medios y servicios necesarios para una comunicación exitosa. Los dispositivos son elementos físicos o hardware en una red, como computadoras, conmutadores, enrutadores, servidores, impresoras, etc. Los portadores de datos son cables, fibras ópticas, ondas de radio y otros medios utilizados para conectar dispositivos y permitir la transferencia de datos. Los servicios son programas de comunicación denominados software que se ejecutan en dispositivos conectados a una red. Estos servicios incluyen muchas aplicaciones web comunes que las personas usan todos los días, como alojamiento de correo electrónico y alojamiento web. Además, existen reglas y procesos que rigen la comunicación de red, así como herramientas y comandos para construir y mantener redes. La combinación de estos componentes permite que los mensajes se envíen de forma segura al destino correcto.
+
+

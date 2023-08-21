@@ -1,0 +1,18 @@
+Actividades capítulo 1 y 2 CCNA1 
+
+Preguntas de lectura: Capítulo 1
+
+Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
+es una red convergente?
+
+Datos: los datos son información  y que se utiliza para una variedad de propósitos en nuestra vida cotidiana.Los datos son fragmentos de información que se transmite a través de las redes de datos. Estos datos pueden ser números, palabras u otros tipos de información, Los datos individualmente no tienen significado, estos deben estar organizados y tener un contexto para que pueda ser de utilidad para las personas
+
+Red de datos: Una red de datos es una agrupación de dispositivos que están conectados entre sí con el objetivo de facilitar la comunicación y el intercambio de información. Estos dispositivos pueden ser computadoras, servidores, enrutadores, conmutadores, dispositivos móviles y otros dispositivos de red. Las redes de datos pueden variar en tamaño y capacidad, pero todas comparten cuatro elementos fundamentales:
+
+	-Reglas y acuerdos que regulan cómo se envían, redireccionan, reciben e interpretan los mensajes.
+	-Los mensajes o unidades de información que viajan de un dispositivo a otro.
+	-Un medio de interconexión que permite el transporte de los mensajes entre los dispositivos.
+	-Los propios dispositivos de la red que se encargan de intercambiar los mensajes entre sí.
+
+red convergente: En una red convergente, todos los servicios, como voz, video y datos, pueden transmitirse a través de una única plataforma. En el pasado, cada servicio requería tecnologías diferentes y reglas específicas para su transmisión. Sin embargo, gracias a los avances tecnológicos, ahora es posible consolidar todas estas redes dispersas en una sola plataforma: una red convergente. Aunque aún existen puntos de contacto y dispositivos especializados, se utiliza una infraestructura de red común
+

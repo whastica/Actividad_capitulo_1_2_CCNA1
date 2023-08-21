@@ -44,4 +44,20 @@ Preguntas de lectura: Capítulo 2
 
 La estructura de la red incluye los dispositivos, medios y servicios necesarios para una comunicación exitosa. Los dispositivos son elementos físicos o hardware en una red, como computadoras, conmutadores, enrutadores, servidores, impresoras, etc. Los portadores de datos son cables, fibras ópticas, ondas de radio y otros medios utilizados para conectar dispositivos y permitir la transferencia de datos. Los servicios son programas de comunicación denominados software que se ejecutan en dispositivos conectados a una red. Estos servicios incluyen muchas aplicaciones web comunes que las personas usan todos los días, como alojamiento de correo electrónico y alojamiento web. Además, existen reglas y procesos que rigen la comunicación de red, así como herramientas y comandos para construir y mantener redes. La combinación de estos componentes permite que los mensajes se envíen de forma segura al destino correcto.
 
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+
+- Red: Este es un término general que se refiere a cualquier conjunto de dispositivos y medios utilizados para comunicarse entre sí. Puede ser LAN o WAN.
+
+- LAN: una red de área local utilizada para conectar dispositivos dentro de un área geográfica limitada, como una oficina, un edificio o un campus. Las LAN suelen ser propiedad de organizaciones y se utilizan para compartir recursos como archivos, impresoras y aplicaciones.
+
+- WAN: Es una red de área amplia que se utiliza para conectar dispositivos en un área geográfica grande, como una ciudad, un país o un continente. Las WAN se utilizan para conectar diferentes LAN y permitir la comunicación entre ellas. 
+
+- Internetwork: Es una red formada por varias redes interconectadas. Por ejemplo, una empresa puede tener varias LAN conectadas a una WAN para formar una red de Internet.
+
+- Internet: Es una red global de computadoras interconectadas que se comunican entre sí usando el Protocolo de Internet (IP). Internet es una red pública para compartir información y recursos en todo el mundo. 
+
+En pocas palabras, una red es un término general para cualquier conjunto de dispositivos y medios utilizados para comunicarse entre sí. Una LAN es una red de área local que se usa para conectar dispositivos dentro de un área geográfica limitada, mientras que una WAN es una red de área amplia que se usa para conectar dispositivos dentro de un área geográfica más grande. INTERNETWORK es una red de redes interconectadas, mientras que INTERNET es una red global de computadoras interconectadas que se comunican entre sí utilizando el Protocolo de Internet (IP).
+
+
 

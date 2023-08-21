@@ -90,6 +90,13 @@ ya que los protocolos describen solamente qué funciones se requieren de una reg
 
 Una PDU es una sección de datos que se encapsula en cada capa del modelo OSI o TCP/IP y que tiene un nombre distinto en cada capa. La PDU es la unidad básica de datos que se transmite a través de una red y que se utiliza para proporcionar servicios de comunicación entre dispositivos de red. En el modelo OSI, cada capa agrega su propia información de encabezado a la PDU que recibe de la capa superior. En el modelo TCP/IP, la PDU se denomina de manera diferente en cada capa. Por ejemplo, en la capa de aplicación, la PDU se llama "datos", mientras que en la capa de transporte, la PDU se llama "segmento". En la capa de internetwork, la PDU se llama "paquete", y en la capa de acceso a la red, la PDU se llama "trama".
 
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos
+
+Los protocolos son reglas y estándares que se utilizan para permitir la comunicación entre dispositivos de red. Los protocolos definen cómo se transfieren los datos a través de una red, cómo se establecen y mantienen las conexiones, cómo se manejan los errores y cómo se garantiza la integridad de los datos. 
+
+El proceso de encapsulación de datos es una técnica utilizada por los protocolos de red para agregar información adicional a los datos transmitidos. Cada capa del modelo OSI o TCP/IP agrega su propia información de encabezado a los datos recibidos de las capas superiores. Esta información de encabezado incluye información como direcciones de origen y destino, números de secuencia, longitudes de paquetes y otra información que los dispositivos de red necesitan para poder enviar y recibir datos.
+
+El proceso de encapsulación de datos es importante porque permite que los datos se transfieran a través de una red de manera eficiente y segura. Cada capa del modelo OSI o TCP/IP agrega su propia información de encabezado a los datos, lo que permite que los dispositivos de red se comuniquen de manera eficiente y entreguen los datos correctamente a su destino.
 
 
 
